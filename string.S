@@ -19,4 +19,4 @@ chars6	DCD		'r', ' ', 't', 'h', 'e', 'i', 'r', ' ', 'w', 'o', 'r'
 chars7	DCD		'k', ' ', 'o', 'n', ' ', 'n', 'e', 'u', 'r', 'a', 'l'
 chars8	DCD		'n', 'e', 't', 'w', 'o', 'r', 'k', 's', '.'
 count	DCD		97
-#string	FILL	?
+;string	FILL	?
