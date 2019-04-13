@@ -23,5 +23,5 @@ You might find the following materials useful:
 3. Open files in VisUAL from the local repository.
 4. Commit your changes when you are done.
 5. Push your commits to the remote.
-6. **Submit your URL on Google Classwork (e.g. in a comment).**
+6. **Important:** Submit your URL on [Google Classroom](https://classroom.google.com/u/0/c/Mjc5MjgxMTQ2NzZa/a/MzQ4OTg4ODY3NTNa/details), in a private comment.
 
