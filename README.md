@@ -2,7 +2,7 @@
 CS2400 ARM assembly programming assignment #2
 
 ## Instructions
-The instructions are in the files themselves. Assume **unsigned integer** multiplication. We'll add support for signed integers in a subsequent assignment.
+The instructions are in the files themselves. Assume **signed integer** multiplication. 
 
 ## Support materials
 You might find the following materials useful:
