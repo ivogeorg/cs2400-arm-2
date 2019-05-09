@@ -9,6 +9,7 @@
 
 		;		Your code here
 
-numbers	DCD		0xA0BCFF0D, 0xFFF0ADEA
+;numbers	DCD		0xA0BCFF0D, 0xFFF0ADEA ; second multiplicand is NaN
+numbers	DCD		0xA0BCFF0D, 0xF0F0ADEA
 result	FILL		8
 carry	FILL		4
